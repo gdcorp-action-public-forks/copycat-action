@@ -1,3 +1,6 @@
+# ATTENTION GODADDY USERS
+# This action may only be used to copy repositories within GDCorp or public repositories that have been approved by OSWG
+
 <p align=center>
 	<img width="240" src="media/logo.svg" alt="Copycat Logo">
 </p>
